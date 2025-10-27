@@ -1,0 +1,35 @@
+# 🍽️ Food Waste Donation Platform
+
+A web platform designed to reduce food waste by connecting **restaurants, hostels, and households** with nearby **NGOs** who can collect leftover food.
+
+---
+
+## 🚀 Features
+
+✅ Donors can register and upload details of leftover food  
+✅ NGOs can view available donations in their area  
+✅ Real-time data from MongoDB  
+✅ Clean and responsive UI using React.js  
+✅ Secure backend with Node.js and Express  
+
+---
+
+## 🧠 Technologies Used
+
+| Category | Technology |
+|-----------|-------------|
+| Frontend | React.js, HTML, CSS, JavaScript |
+| Backend | Node.js, Express.js |
+| Database | MongoDB |
+| Design | Figma |
+
+---
+
+## ⚙️ Installation Guide
+
+### 🖥 Backend Setup
+1. Open terminal inside `backend` folder  
+2. Run the commands:
+   ```bash
+   npm install
+   npm start
